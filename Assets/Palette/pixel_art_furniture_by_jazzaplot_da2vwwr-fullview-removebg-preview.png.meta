@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 0d9f2dffcec1a4e459e858083e86e512
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 32
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e69dc53aa4822468438831b845c52e
+      internalID: 2131771028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 32
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b02639d9cd92445a1e8d11c02a456e
+      internalID: 1202773277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 32
+        width: 125
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc1921514963194790d74424428183d
+      internalID: 1815831748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 28
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d9ce650645ee940bae210084e8974c
+      internalID: 696554628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 32
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbdc4190588c7e4aae4a76962a88ae0
+      internalID: 1216330817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 35
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd47a49dd35e7c4fbd68d4b8965db07
+      internalID: -1310846138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 33
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9491a0d45e2d99a43b7fb8936677522f
+      internalID: 1948062753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 32
+        width: 52
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f26f4f683f74e47ad8d35921c308b2
+      internalID: 1922709793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 32
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152ca6567c728f4f9b47b8f8b544321
+      internalID: 903179858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 32
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a07b5d7e668b44fab9814163dde427
+      internalID: 1337000895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 32
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac7163c70fd0664d95fb5f50d115385
+      internalID: 81759331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_0: 2131771028
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_1: 1202773277
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_10: 81759331
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_2: 1815831748
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_3: 696554628
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_4: 1216330817
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_5: -1310846138
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_6: 1948062753
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_7: 1922709793
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_8: 903179858
+      pixel_art_furniture_by_jazzaplot_da2vwwr-fullview-removebg-preview_9: 1337000895
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
